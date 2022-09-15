@@ -3,7 +3,7 @@ Collection of bookmarklets
 Thats all :)
 (NOTE: I wrote almost none of these) 
 
-#Force Remove EXT
+# Force remove ext
 
 Bookmarklet exploit that can force-disable any extension installed on Google Chrome
 
