@@ -1,7 +1,7 @@
 # Bookmarklets
 Collection of bookmarklets
 Thats all :)
-(NOTE: I wrote almost none of these) 
+(NOTE: I wrote almost none of these, and I took most of them from a bookmarks bar so I've got no idea who the OG authors are) 
 
 # Force remove ext
 
