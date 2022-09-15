@@ -19,3 +19,5 @@ Go to the file gui.js and copy everything and create a new bookmark and use the 
 Visit https://chrome.google.com/webstorex. (This is a 404 page, and that is ok.)
 Click the bookmark (Make sure you are on the page above!)
 Use the menu to toggle your extensions!
+
+(credit goes to 3kh0 for the ext remover)
